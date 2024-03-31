@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Hua</h1>
-<h3 align="center">I’m Aspiring A.I Developer and Web Developer.</h3>
+<h3 align="center">I’m Aspiring Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelhua&label=Profile%20views&color=0e75b6&style=flat" alt="pixelhua" /> </p>
 
